@@ -1,0 +1,11 @@
+ Methodology: How I Approached the Problem
+
+I started by first understanding what problem I was actually solving. Instead of directly searching for companies, I read the assignment guidelines, sample output and proposal structure carefully to understand the expected outcome, scoring logic and submission format.
+
+After that, I used AI as a thinking and structuring assistant. My first step with AI was not to ask for final answers, but to ask it to act like an experienced business research analyst in the target domain and help me understand how such a problem should be approached professionally. This helped me create a broad framework: choosing a city and segment, building a raw universe of companies, applying a pre-filter, verifying company-level evidence, scoring companies, and finally preparing the final list.
+
+Once I got the framework, I did not directly accept it. I questioned the logic behind it. I tried to understand why each step was required, what each technical term meant, and how each step would help me reach a better final output. For example, I understood why certifications like IATF 16949 and AS9100 matter, why Pune is a strong location for precision auto components, why company-owned websites are stronger than directory listings, and why a fail list is important to show research discipline.
+
+After understanding the framework, I started execution. I used AI mainly for generating search strategies, explaining technical terms, building the scoring structure, and helping me think through hallucination risks. However, I treated AI outputs only as leads, not as final evidence. Company-level claims were manually checked using public sources such as company websites, LinkedIn, Tofler/Zaubacorp company verification pages, certification pages, and search results. If a claim could not be verified properly, I either marked it as weak, added it to the fail list, or avoided overclaiming it in the final output.
+
+My main guardrail was simple: no important claim should be included only because AI suggested it. Every claim about manufacturing, location, certifications, products, leadership, or growth signals needed some form of public evidence. Where evidence was incomplete, I mentioned the limitation honestly instead of guessing.
